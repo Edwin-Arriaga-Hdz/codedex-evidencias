@@ -26,4 +26,4 @@ elif planet_number == 6:
 elif planet_number == 7:
   print("destination weight: " + str(earth_weight*Neptune))
 else:
-  print("Invalid planet numer" )
+  print("Invalid planet number" )
