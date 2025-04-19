@@ -4,7 +4,7 @@ Este proyecto es una calculadora interactiva de áreas desarrollada en Python. P
 
 ## 🔹 Figuras disponibles
 - Triángulo
-- Rectángulo
+- Rectángculo
 - Cuadrado
 - Círculo
 
@@ -31,6 +31,15 @@ Este proyecto es una calculadora interactiva de áreas desarrollada en Python. P
 Marco Edwin Arriaga Hernández
 
 Este proyecto forma parte del desarrollo personal de habilidades en programación y fue elaborado como un reto personal al finalizar la sección de loops del curso de Codédex.
+
+## 🤖 Sobre el uso de IA
+
+Este proyecto lo desarrollé con el apoyo de herramientas de inteligencia artificial, que utilicé como guía de aprendizaje.  
+En lugar de usarlas para que hicieran el trabajo por mí, las aproveché para resolver dudas, entender mejor los conceptos y fortalecer mi lógica paso a paso.
+
+**No creo que aprender a programar signifique hacerlo todo en solitario, sino saber cómo avanzar, cómo adaptarse y cómo construir con las herramientas que tenemos hoy.**
+
+**Usar IA de forma consciente no es depender de ella, es evolucionar con ella.**
 
 ---
 
